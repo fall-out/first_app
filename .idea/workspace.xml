@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e59fd7f9-18dc-417b-9298-cbdb901ce18b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Projects.iml" afterPath="$PROJECT_DIR$/.idea/Projects.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -466,12 +462,12 @@
       <workItem from="1497723736412" duration="151000" />
       <workItem from="1497723990900" duration="1088000" />
       <workItem from="1497725418874" duration="550000" />
-      <workItem from="1497775994292" duration="6375000" />
+      <workItem from="1497775994292" duration="6772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18184000" />
+    <option name="totallyTimeSpent" value="18581000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
